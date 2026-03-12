@@ -100,7 +100,7 @@ Structured plain text is what AI understands natively.
 
 ## 🔧 Start Here
 
-A [`.gitattributes`](../../.gitattributes) starter file is included in this repo.  
+A [`.gitattributes`](../.gitattributes) starter file is included in this repo.  
 It enforces LF line endings and UTF-8 encoding for all plain text files — keeping your repo consistent across editors, OSes, and contributors.
 
 ---
