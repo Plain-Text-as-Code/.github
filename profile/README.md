@@ -96,6 +96,15 @@ Structured plain text is what AI understands natively.
 
 ---
 
+---
+
+## 🔧 Start Here
+
+A [`.gitattributes`](../../.gitattributes) starter file is included in this repo.  
+It enforces LF line endings and UTF-8 encoding for all plain text files — keeping your repo consistent across editors, OSes, and contributors.
+
+---
+
 *Plain Text as Code is not a framework. It is a mindset.*  
 *Structure your knowledge well, and everything else follows.*
 
